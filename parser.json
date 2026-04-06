@@ -1,0 +1,8 @@
+{
+  "lang": "enforce",
+  "max_version": null,
+  "location": null,
+  "min_version": null,
+  "url": "https://github.com/simonvic/tree-sitter-enforce",
+  "semver": false
+}
